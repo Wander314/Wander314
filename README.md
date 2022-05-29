@@ -1,9 +1,11 @@
-- 👋 Olá, Eu sou Wander314
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- :+1:
+# Sobre mim
+
+- 👀 Olá, eu sou Wander de Oliveira
+- 👋 Sou Professor de Matemática e Pensamento Computacional
+- 🌱 Em programação atualmente estou trabalhando com Javascript e Scratch
+- :+1: Minhas turmas colaborativas de Pensamento Computacional são o 1MA, 1MB, 1MC e 1MD do Colégio Newton Guimarães, em Londrina/Pr-Brasil
+- 📫 Meu e-mail institucional é wander.oliveira@escola.pr.gov.br
+- 
 - 
 
 - 
